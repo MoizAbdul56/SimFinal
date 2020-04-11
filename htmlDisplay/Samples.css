@@ -1,0 +1,11 @@
+div{
+  text-align: center;
+  font-size: 20px;
+}
+video{
+  display: block;
+  margin: auto;
+}
+body{
+  background-color: #899c8e;
+}
